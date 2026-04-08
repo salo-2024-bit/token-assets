@@ -1,0 +1,10 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "description": "Replica de Tether para pruebas en Solana Devnet.",
+  "image": "https://githubusercontent.com",
+  "attributes": [],
+  "properties": {
+    "files":
+  }
+}
